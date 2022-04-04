@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <zaznamy>
-  <mereni id="">
-    <teplota></teplota>
+  <mereni id="001">
+    <teplota>7.6</teplota>
+  </mereni>
+  <mereni id="002">
+    <teplota>8.1</teplota>
+  </mereni>
+    <mereni id="003">
+    <teplota>9.1</teplota>
   </mereni>
 </zaznamy>
